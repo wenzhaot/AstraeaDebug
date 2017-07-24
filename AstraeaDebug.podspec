@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AstraeaDebug"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A debug version of AstraeaSwift."
   s.description  = <<-DESC
   Using debug versio for astraea-sdk-swift
