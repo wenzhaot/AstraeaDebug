@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.5ikankan.com/"
   s.license      = "MIT"
   s.author             = { "wenzhaot" => "tanwenzhao1025@gmail.com" }
-  s.source       = { :git => "https://github.com/wenzhaot/astraea-sdk-swift.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/wenzhaot/AstraeaDebug.git", :tag => "#{s.version}" }
 
   s.ios.deployment_target = '8.0'
   s.vendored_frameworks = ['AstraeaSwift.framework']
